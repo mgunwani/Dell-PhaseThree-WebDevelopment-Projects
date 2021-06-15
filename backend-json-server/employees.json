@@ -1,0 +1,22 @@
+{
+    "employees": [
+        {
+            "id": 1001,
+            "name": "King Kochhar",
+            "email": "king.kochhar@gmail.com",
+            "salary": 20000
+        },
+        {
+            "id": 1002,
+            "name": "John Smith",
+            "email": "john.smith@gmail.com",
+            "salary": 22000
+        },
+        {
+            "id": 1003,
+            "name": "Shreya Ghoshal",
+            "email": "shreya.ghoshal@gmail.com",
+            "salary": 50000
+        }
+    ]
+}
