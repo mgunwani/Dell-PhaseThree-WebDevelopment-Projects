@@ -1,22 +1,28 @@
 {
-    "employees": [
-        {
-            "id": 1001,
-            "name": "King Kochhar",
-            "email": "king.kochhar@gmail.com",
-            "salary": 20000
-        },
-        {
-            "id": 1002,
-            "name": "John Smith",
-            "email": "john.smith@gmail.com",
-            "salary": 22000
-        },
-        {
-            "id": 1003,
-            "name": "Shreya Ghoshal",
-            "email": "shreya.ghoshal@gmail.com",
-            "salary": 50000
-        }
-    ]
+  "employees": [
+    {
+      "name": "King Kochhar Karah",
+      "email": "king.kochhar.karah@gmail.com",
+      "salary": "70000",
+      "id": 1001
+    },
+    {
+      "id": 1002,
+      "name": "John Smith",
+      "email": "john.smith@gmail.com",
+      "salary": 22000
+    },
+    {
+      "name": "Rohit Sharma",
+      "email": "rohit.sharma@gmail.com",
+      "salary": "50000",
+      "id": 1004
+    },
+    {
+      "name": "Rohit Sharma Engineer",
+      "email": "rohit.sharma@gmail.com",
+      "salary": "87000",
+      "id": 1005
+    }
+  ]
 }
